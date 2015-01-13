@@ -1,0 +1,1 @@
+([:dependencies ([org.clojure/tools.namespace "0.2.6"] [com.jakemccrary/lein-test-refresh "0.5.3"] [org.clojure/clojure "1.6.0"] [org.clojure/tools.nrepl "0.2.3" :exclusions ([org.clojure/clojure])] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure])] [spyscope/spyscope "0.1.4"] [midje/midje "1.6.3"] [org.clojure/tools.trace "0.7.8"])])
